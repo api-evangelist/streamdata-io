@@ -1,0 +1,87 @@
+{
+    "name": "Streamdata.io",
+    "description": "In 5 minutes: turn any API into an event-driven streaming API; impress your customers; forget about scalability issues and watch your business grow in real time. Welcome to Streamdata.io! \ud83d\ude0e",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18697-streamdata-io.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/streamdata-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Streamdata.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18697-streamdata-io.jpg",
+            "humanURL": "https:\/\/streamdata.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamdata-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamdata-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Hacker News Search",
+            "url": "Streamdata"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "Streamdata"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/streamdata.io\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/streamdata.io\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/streamdata-io"
+        },
+        {
+            "type": "Email",
+            "url": "sales@streamdata.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@streamdata.io"
+        },
+        {
+            "type": "Email",
+            "url": "community@streamdata.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/streamdataio"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "Streamdata.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/StreamdataIO"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/streamdata.io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/streamdata.io\/"
+        }
+    ]
+}
